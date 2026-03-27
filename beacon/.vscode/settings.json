@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hci.h": "c",
+        "device.h": "c",
+        "hci_vs.h": "c"
+    }
+}
